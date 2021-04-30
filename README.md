@@ -76,4 +76,4 @@ npm run server
 
 ## License
 
-[MIT](https://github.com/Akshit-Zatakia/react-allpages/blob/main/LICENCE)
+[MIT](https://github.com/Akshit-Zatakia/kncp/blob/main/LICENSE)
